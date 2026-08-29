@@ -202,9 +202,7 @@ Currently building skills and working toward my first technical certifications.
 ## Contribution Snake
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Sanchitad528-cmd/Sanchitad528-cmd/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
+  <img src="https://raw.githubusercontent.com/Sanchitad528-cmd/Sanchitad528-cmd/output/github-contribution-grid-snake.svg" width="80%">
 </div>
 
 ---
